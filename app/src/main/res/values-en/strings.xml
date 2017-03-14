@@ -9,6 +9,6 @@
     <string name="str_ca_name">Name</string>
     <string name="str_ca_user">Username</string>
     <string name="str_ca_pass">Password</string>
-    <string name="str_ca_confpass">Confirm password</string>
+    <string name="str_ca_confpass">Confirm Password</string>
     <string name="str_btn_createaccount">Register</string>
 </resources>
